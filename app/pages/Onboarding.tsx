@@ -48,7 +48,7 @@ export function Onboarding() {
               ease: "linear",
             }}
           >
-            BLOOP SETUP
+            BLOOP
           </motion.h1>
         </motion.div>
 
